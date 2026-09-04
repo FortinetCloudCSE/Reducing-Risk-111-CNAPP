@@ -1,15 +1,23 @@
 ---
-title: "Fortinet TECWorkshop Template - MVP2"
+title: "Fortinet TECWorkshop"
 linkTitle: "TECWorkshop Template"
 weight: 1
 archetype: "home"
 description: "Hugo for Fortinet TEC Workshops"
 ---
 
+## Welcome!
 
-THIS IS A TEST
+In this workshop you will learn about security in the area of the cloud.
+
+Topics covered:
+* AI Security - Hack an AI bot to reveals a secret
+* Code Security - Explore a small code base hunting for code/configuration vulnerabilities
+* Cloud Security - Explore a cloud account looking for runtime risks
+* Web Security - Exploit a web application to secure the secret flag hidden on disk
 
 
+<<<<<<< HEAD
 
 ### {{% badge style="info" color="red" icon="fa-fw fas fa-exclamation-triangle" title=" " %}}Change{{% /badge %}} FYI, YOU WILL NOW NEED TO CHECKIN WITH YOUR EMAIL ADDRESS TO VIEW THIS GUIDE
 This change helps with analytics and data gathering and is consistent with UserRepo guide (this repo) serving as the root of every new workshop (e.g. this guide is always on latest and greatest featureset which gets cloned into every new workshop)  
@@ -27,3 +35,5 @@ Follow along on this simple tutorial to get up and running with a Hugo formatted
  
 ### Hugo and Fortinet TECWorkshops - Visually
 - The purpose of this workflow is to simplify creation of Fortinet TECWorkshop guides while providing an example CI/CD development environment with maximum re-usability 
+=======
+>>>>>>> 9f4d2c1 (feat: first pass at writting up the labs)
