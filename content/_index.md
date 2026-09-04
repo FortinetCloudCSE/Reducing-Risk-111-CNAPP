@@ -8,7 +8,7 @@ description: "Hugo for Fortinet TEC Workshops"
 
 ## Welcome!
 
-In this workshop you will learn about security in the area of the cloud.
+In this workshop you will learn about some of the challenges securing the public cloud.  We will start with AI, move into code, explore a cloud account and wrap up with web application security.
 
 Topics covered:
 * AI Security - Hack an AI bot to reveals a secret

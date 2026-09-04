@@ -2,7 +2,7 @@
   "version": "Hugo-v2.1",
   "files_to_copy": [
     {
-      "Reducing-Risk-111-CNAPP": [
+      "UserRepo": [
         { "remote": "Dockerfile", "local": "Dockerfile" }
       ]
     },
