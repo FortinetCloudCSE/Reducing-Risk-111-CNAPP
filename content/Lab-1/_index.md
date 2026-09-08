@@ -10,6 +10,30 @@ In this lab you will access to a chatbot powered by a Large Language Model (LLM)
 
 The specific LLM model you will be using today is called ['secret_keeper'](https://ollama.com/gabeobrien/secret_keeper).  This model has been asked to keep a secret for a single user.
 
+
+## Deploy the lab with Qwiklabs
+
+The AI Chat bot will be deployed using Qwiklabs.  Click the link below and use the student email address and password to log into Qwiklabs.
+
+[Qwiklabs](https://fortinet.qwiklabs.com/users/sign_in)
+
+{{< figure src="imgs/qwiklabs-log.png" >}}
+
+Once logged in select the course 'AI Chatbot - Secret Keeper'.
+
+{{< figure src="imgs/qwiklabs-select-course.png" >}}
+
+Next select the course 'AI Secret Keeper Lab'.
+
+{{< figure src="imgs/qwiklabs-select-lab.png" >}}
+
+Finally start the deployment clicking on 'start'
+
+{{< figure src="imgs/qwiklabs-start-lab.png" >}}
+
+
+<!--
+
 ## Access Open WebUI
 
 Use the credentials below to access the Open WebUI to start hacking on the chatbot.
@@ -20,14 +44,16 @@ Use the credentials below to access the Open WebUI to start hacking on the chatb
 > Password: ThisIsHowYouLogIn <br>
 
 Ask you teacher for the URL to the OpenWeb UI site.
-<!--
 > [Open WebUI](http:///) <br>
--->
 Ensure that the model select is the 'gabeobrien/secret_keeper' model.
 
 {{< figure src="imgs/secret-keeper-model.png" >}}
 
+-->
+
+
 <!--
+
 ## First load the 'secretkeeper' model
 
 Select a model -> Manage Connections
