@@ -31,6 +31,29 @@ Finally start the deployment clicking on 'start'
 
 {{< figure src="imgs/qwiklabs-start-lab.png" >}}
 
+Once the lab is deployed there will be a sidebar with the URL and username/password.
+
+{{< figure src="imgs/qwiklabs-sidebar.png" >}}
+
+## Setup the Secret Keeper LLM Model
+
+Once you have logged into OpenWeb UI you will notice that there is not LLM model currently available.
+
+{{< figure src="imgs/openweb-ui-select-a-model.png" >}}
+
+Click on the 'Select a model' and the click 'Manage Connetions'.
+
+{{< figure src="imgs/openweb-ui-no-models-yet.png" >}}
+
+Click on the 'Models' in the list on the left.
+
+{{< figure src="imgs/openweb-ui-add-secret-keeper-model.png" >}}
+
+Fill out the form field under 'Pull a model from Ollama.com'. Enter 'gabeobrien/secret_keeper' and click the download icon.
+
+{{< figure src="imgs/secret-keeper-model.png" >}}
+
+If you see the 'secret_keeper' model is loaded the you are ready to start hacking the chatbot!
 
 <!--
 
