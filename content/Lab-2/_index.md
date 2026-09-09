@@ -14,7 +14,7 @@ The point of this exercise is to gain some insight into the 'code to cloud' move
 
 Click the link below to download the zip file of the code you will be reviewing.
 
-[Download Node Code](imgs/hello-world.zip)
+[Download Node Code](assets/hello-world.zip)
 
 Once the file download is completed unzip the file.
 
