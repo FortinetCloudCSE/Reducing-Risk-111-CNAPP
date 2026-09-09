@@ -18,7 +18,10 @@ Click the link below to download the zip file of the code you will be reviewing.
 
 Once the file download is completed unzip the file.
 
+<!--
 ** (optionally I can add a link to GitHub where they can review in their browser?) **
+-->
+
 
 ## Put on your security professional hat
 
@@ -34,7 +37,9 @@ Takes notes so we can discuss your finding after the lab.
 
 Always read the README.md file! I mean it can't hurt. It helps ground what the project is and might have other detials
 
+<!--
 ** DO WE PUT AN EASTER EGG IN THE README? **
+-->
 
 This web application is written in Node. The entry point into the program can be found in the 'index.js' file.   This, after the README, would be a good place to start to see how the app is setup.
 
