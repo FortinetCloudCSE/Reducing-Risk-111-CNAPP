@@ -12,9 +12,11 @@ The specific LLM model you will be using today is called ['secret_keeper'](https
 
 But first there are some setup tasks to complete.
 
-Tasks:
+Setup Tasks:
 * Log into Qwiklabs
 * Start the lab to deploy the infrastructure
+
+Lab Tasks:
 * Access the OpenWeb UI
 * Load in the 'secret_keeper' model
 * Start smooth talking the chatbot
@@ -39,6 +41,12 @@ Next select the lab 'AI Secret Keeper Lab'.
 Finally start the deployment clicking on 'Start'
 
 {{< figure src="imgs/qwiklabs-start-lab.png" >}}
+
+## Stop here till we get to the lab
+
+Please return to paying attention to the speaker!
+
+## Continue on now that we are back in the lab!
 
 Once the lab is deployed there will be a sidebar with the OpenWebURL and AdminUserEmail and AdminUserPpassword.
 
