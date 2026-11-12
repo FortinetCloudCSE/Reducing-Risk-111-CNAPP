@@ -16,4 +16,12 @@ Accounts for FortiCNAPP will be handed out as part of the course. If you are doi
 1. Log into [FortiCNAPP Console](https://gameday.lacework.net/)
 **When logging into the FortiCNAPP console, you will use ONLY the user ID you were provided (i.e. NOT using the '@corpldap.com' postpend).**
 
-2. Your instructor will guide you through the section and assign challenges inline. Ask questions!
+2. Navigate to the Alerts interface by clicking on the 'Alerts' element in the left-hand navigation under the "Threat Center" (NOT under the Risk Center).
+
+{{< figure src="imgs/lab5-alerts-nav.png" >}}
+
+3. Initially you will not see any alerts for this demo account. Next, set your time picker to "Last Four Months" using the element displayed below: 
+
+{{< figure src="imgs/lab5-alerts-timewindow.png" >}}
+
+4. **Pause here and the instructor will walk you through the interface to orient you!**
